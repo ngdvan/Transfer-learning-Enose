@@ -5,8 +5,8 @@ This directory contains the source datasets and code required to reproduce the n
 ## Dataset directories
 
 - `datasets/NH3_H2_dataset`: private NH3/H2 dataset.
-- `datasets/dynamic_gas_mixture`: public dynamic gas mixture source and processed sequence cache.
-- `datasets/sensor_drift_dataset`: public sensor drift dataset batches 1-10.
+- `datasets/dynamic_gas_mixture`: public dynamic gas mixture source and processed sequence cache - DOI: 10.24432/C5WP4C.
+- `datasets/sensor_drift_dataset`: public sensor drift dataset batches 1-10 - DOI: 10.24432/C5MK6M.
 
 `dataset_manifest.json` records file sizes and SHA-256 checksums.
 
